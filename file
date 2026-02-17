@@ -1,6 +1,10 @@
-hello haii how are you
 <<<<<<< HEAD
-happy
+hello haii how are you
+=======
+hello haii 
+>>>>>>> b8cb9107f37f799be4b9e24f65142c276e1c3737
+<<<<<<< HEAD
+happy birthday
 =======
 birthday
 >>>>>>> b787e56471ed89d9c5175e5c5cae5a1a85993acb
